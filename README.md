@@ -1,6 +1,6 @@
 # Système de Gestion de Bornes de Recharge
 
-Ce projet est une application Java qui permet de gérer un système de bornes de recharge électrique.
+BILEL ALI MOUSSA 
 
 ## Partie Core réalisée 
 
