@@ -1,0 +1,11 @@
+
+bin/
+*.class
+
+
+exports/
+*.txt
+
+
+.DS_Store
+Thumbs.db 
